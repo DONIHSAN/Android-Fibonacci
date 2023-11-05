@@ -19,11 +19,11 @@ Dalam deret ini, angka pertama adalah 0, angka kedua adalah 1, dan setelah itu, 
 
 ## Penjelasan dari MainActivity.java
 
-Agar file README.md tidak terlalu panjang dan apabila temen-temen ingin membaca penjelasan nya , silahkan klik link yg ada di bawah ini yaa...
+Agar File README.md Tidak Terlalu Panjang dan Apabila Temen-temen Ingin Membaca Penjelasan nya , Silahkan Klik Link Yg Ada di Bawah Ini Yaa...
 
+<img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="200px">
 
-
-
+- [Link Penjelasan MainActivity.java]()
 
 
 
@@ -33,7 +33,7 @@ Agar file README.md tidak terlalu panjang dan apabila temen-temen ingin membaca 
 
 ***Keterangan :***
 
-Berikut adalah tampilan apabila telah berhasil di **RUN** di awali dengan angka 0.
+- Berikut adalah tampilan apabila telah berhasil di **RUN** di awali dengan angka 0.
 
 ## Output
 
@@ -41,7 +41,7 @@ Berikut adalah tampilan apabila telah berhasil di **RUN** di awali dengan angka 
 
 ***Keterangan :***
 
-Selanjutnya, sebelum mengklik tombol ``"Count"``, sebaiknya isi angka pada Enter Limit terlebih dahulu. Sebagai contoh, saya mengisi limit dengan angka 20.
+- Selanjutnya, sebelum mengklik tombol ``"Count"``, sebaiknya isi angka pada Enter Limit terlebih dahulu. Sebagai contoh, saya mengisi limit dengan angka 20.
 
 ## Output 
 
@@ -49,7 +49,7 @@ Selanjutnya, sebelum mengklik tombol ``"Count"``, sebaiknya isi angka pada Enter
 
 ***Keterangan :***
 
-Selanjutnya, bisa langsung klik tombol ``"Count"``. Maka, tampilannya akan berubah dari angka 0 menjadi angka 1.
+- Selanjutnya, bisa langsung klik tombol ``"Count"``. Maka, tampilannya akan berubah dari angka 0 menjadi angka 1.
 
 ## Output
 
