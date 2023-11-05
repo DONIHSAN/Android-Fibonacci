@@ -1,4 +1,4 @@
-# Project UTS { Semester 3 } <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png width="120px">
+# Project UTS { Semester 3 } <img src=https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-3022320.jpg width="130px">
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -9,17 +9,17 @@
 
 ## Definisi Deret Fibonacci
 
-**Deret Fibonacci** adalah urutan angka yang dimulai dengan angka 0 dan 1, kemudian setiap angka berikutnya adalah hasil penjumlahan dari dua angka sebelumnya. Dengan demikian, deret ini memiliki pola pertumbuhan eksponensial. **Deret Fibonacci** biasanya ditulis sebagai berikut :
-
-``0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...``
-
-Dalam deret ini, angka pertama adalah 0, angka kedua adalah 1, dan setelah itu, setiap angka berikutnya adalah hasil penjumlahan dari dua angka sebelumnya. Misalnya, 2 adalah hasil penjumlahan dari 1 + 1, 3 adalah hasil penjumlahan dari 1 + 2, 5 adalah hasil penjumlahan dari 2 + 3, dan seterusnya.
-
-**Deret Fibonacci** pertama kali diperkenalkan oleh matematikawan Italia bernama ``Leonardo of Pisa``, yang juga dikenal sebagai Fibonacci, dalam bukunya "Liber Abaci" pada tahun 1202. Deret ini muncul dalam berbagai konteks dalam matematika, ilmu komputer, ilmu alam, dan banyak bidang lainnya. Beberapa aplikasi dari deret Fibonacci meliputi permodelan pertumbuhan populasi, analisis pasar keuangan, dan desain algoritma.
+>**Deret Fibonacci** adalah urutan angka yang dimulai dengan angka 0 dan 1, kemudian setiap angka berikutnya adalah hasil penjumlahan dari dua angka sebelumnya. Dengan demikian, deret ini memiliki pola pertumbuhan eksponensial. **Deret Fibonacci** biasanya ditulis sebagai berikut :
+>
+>``0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...``
+>
+>Dalam deret ini, angka pertama adalah 0, angka kedua adalah 1, dan setelah itu, setiap angka berikutnya adalah hasil penjumlahan dari dua angka sebelumnya. Misalnya, 2 adalah hasil penjumlahan dari 1 + 1, 3 adalah hasil penjumlahan dari 1 + 2, 5 adalah hasil penjumlahan dari 2 + 3, dan seterusnya.
+>
+>**Deret Fibonacci** pertama kali diperkenalkan oleh matematikawan Italia bernama ``Leonardo of Pisa``, yang juga dikenal sebagai Fibonacci, dalam bukunya "Liber Abaci" pada tahun 1202. Deret ini muncul dalam berbagai konteks dalam matematika, ilmu komputer, ilmu alam, dan banyak bidang lainnya. Beberapa aplikasi dari deret Fibonacci meliputi permodelan pertumbuhan populasi, analisis pasar keuangan, dan desain algoritma.
 
 ## Penjelasan dari MainActivity.java
 
-Agar File README.md Tidak Terlalu Panjang dan Apabila Temen-temen Ingin Membaca Penjelasan nya , Silahkan Klik Link Yg Ada di Bawah Ini Yaa...
+*Agar File README.md Tidak Terlalu Panjang dan Apabila Temen-temen Ingin Membaca Penjelasan nya , Silahkan Klik Link Yg Ada di Bawah Ini Yaa...*
 
 <img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="200px">
 
@@ -33,7 +33,7 @@ Agar File README.md Tidak Terlalu Panjang dan Apabila Temen-temen Ingin Membaca 
 
 ***Keterangan :***
 
-- Berikut adalah tampilan apabila telah berhasil di **RUN** di awali dengan angka 0.
+- Berikut adalah tampilan apabila telah berhasil di ``RUN`` di awali dengan angka 0.
 
 ## Output
 
@@ -57,7 +57,7 @@ Agar File README.md Tidak Terlalu Panjang dan Apabila Temen-temen Ingin Membaca 
 
 ***Keterangan :***
 
-**Deret Fibonacci** memiliki pola sebagai berikut: ``0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...`` Oleh karena itu, setelah angka 1 muncul, angka berikutnya juga akan menjadi angka 1. Perubahan angka ini ditandai dengan perubahan warna pada angka tersebut.
+- **Deret Fibonacci** memiliki pola sebagai berikut: ``0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...`` Oleh karena itu, setelah angka 1 muncul, angka berikutnya juga akan menjadi angka 1. Perubahan angka ini ditandai dengan perubahan warna pada angka tersebut.
 
 
 ## Output
@@ -66,7 +66,7 @@ Agar File README.md Tidak Terlalu Panjang dan Apabila Temen-temen Ingin Membaca 
 
 ***Keterangan :***
 
-Selanjutnya, setelah angka 1 muncul dua kali, angka berikutnya akan menjadi 2. Angka-angka selanjutnya akan mengikuti urutan deret Fibonacci, yaitu ``0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ....``
+- Selanjutnya, setelah angka 1 muncul dua kali, angka berikutnya akan menjadi 2. Angka-angka selanjutnya akan mengikuti urutan deret Fibonacci, yaitu ``0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ....``
 
 ## Output
 
@@ -74,7 +74,7 @@ Selanjutnya, setelah angka 1 muncul dua kali, angka berikutnya akan menjadi 2. A
 
 ***Keterangan :***
 
-Ketika deret Fibonacci mencapai limit, maka akan tampil teks "Deret Angka Fibonacci Telah Mencapai Batas". Ketika kita klik tombol ``"Count"``, maka tidak akan dilanjutkan dan hanya berhenti di angka limit tersebut.
+- Ketika deret Fibonacci mencapai limit, maka akan tampil teks *"Deret Angka Fibonacci Telah Mencapai Batas"*. Ketika kita klik tombol ``"Count"``, maka tidak akan dilanjutkan dan hanya berhenti di angka limit tersebut.
 
 ## Output
 
@@ -82,7 +82,7 @@ Ketika deret Fibonacci mencapai limit, maka akan tampil teks "Deret Angka Fibona
 
 ***Keterangan :***
 
-Selanjutnya, jika kita klik tombol ``"Fibonacci",`` maka akan muncul tampilan teks "Latihan Bilangan Fibonacci !"
+- Selanjutnya, jika kita klik tombol ``"Fibonacci",`` maka akan muncul tampilan teks *"Latihan Bilangan Fibonacci !"*.
 
 
 
