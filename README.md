@@ -17,14 +17,13 @@
 >
 >**Deret Fibonacci** pertama kali diperkenalkan oleh matematikawan Italia bernama ``Leonardo of Pisa``, yang juga dikenal sebagai Fibonacci, dalam bukunya "Liber Abaci" pada tahun 1202. Deret ini muncul dalam berbagai konteks dalam matematika, ilmu komputer, ilmu alam, dan banyak bidang lainnya. Beberapa aplikasi dari deret Fibonacci meliputi permodelan pertumbuhan populasi, analisis pasar keuangan, dan desain algoritma.
 
-### Penjelasan dari MainActivity.java
+## Penjelasan dari MainActivity.java
 
 *Agar File **README.md** Tidak Terlalu Panjang dan Apabila Temen-temen Ingin Membaca Penjelasan nya , Silahkan Klik Link Yang Ada di Bawah Ini Yaa...*
 
 <img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="200px">
 
-- [Link Penjelasan MainActivity.java]()
-
+- [Link Penjelasan MainActivity.java](https://bit.ly/3SzIGUi)
 
 
 ## Output
@@ -33,7 +32,7 @@
 
 ***Keterangan :***
 
-- Berikut adalah tampilan apabila telah berhasil di ``RUN`` di awali dengan angka 0.
+- Berikut adalah tampilan apabila ``telah berhasil di RUN`` di awali dengan angka 0.
 
 ## Output
 
@@ -41,7 +40,7 @@
 
 ***Keterangan :***
 
-- Selanjutnya, sebelum mengklik tombol ``Count``, sebaiknya isi angka pada Enter Limit terlebih dahulu. Sebagai contoh, saya mengisi limit dengan angka 20.
+- Selanjutnya, sebelum ``mengklik tombol Count``, sebaiknya isi angka pada Enter Limit terlebih dahulu. Sebagai contoh, saya mengisi limit dengan angka 20.
 
 ## Output 
 
@@ -49,7 +48,7 @@
 
 ***Keterangan :***
 
-- Selanjutnya, bisa langsung klik tombol ``Count``. Maka, tampilannya akan berubah dari angka 0 menjadi angka 1.
+- Selanjutnya, bisa langsung ``klik tombol Count``. Maka, tampilannya akan berubah dari angka 0 menjadi angka 1.
 
 ## Output
 
@@ -74,7 +73,7 @@
 
 ***Keterangan :***
 
-- Ketika deret Fibonacci mencapai limit, maka akan tampil teks *"Deret Angka Fibonacci Telah Mencapai Batas"*. Ketika kita klik tombol ``Count``, maka tidak akan dilanjutkan dan hanya berhenti di angka limit tersebut.
+- Ketika deret Fibonacci mencapai limit, maka akan tampil teks *"Deret Angka Fibonacci Telah Mencapai Batas"*. Ketika kita ``klik tombol Count``, maka tidak akan dilanjutkan dan hanya berhenti di angka limit tersebut.
 
 ## Output
 
@@ -82,10 +81,15 @@
 
 ***Keterangan :***
 
-- Selanjutnya, jika kita klik tombol ``Fibonacci,`` maka akan muncul tampilan teks *"Latihan Bilangan Fibonacci !"*.
+- Selanjutnya, jika kita ``klik tombol Fibonacci,`` maka akan muncul tampilan teks *"Latihan Bilangan Fibonacci !"*.
 
+## Ouput
 
+![](screenshot/ss8.png)
 
+***Keterangan :***
+
+- Terakhir, ini adalah tampilan apabila ``diklik tombol Reset``, semua akan kembali ke tampilan awal, dimulai dari angka 0, dan harus memasukkan limit lagi.
 
 
 
