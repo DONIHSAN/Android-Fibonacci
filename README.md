@@ -23,7 +23,7 @@
 
 <img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="200px">
 
-- [Link Penjelasan MainActivity.java](https://bit.ly/3SzIGUi)
+- [Link Penjelasan MainActivity.java](https://bit.ly/3FKylNY)
 
 
 ## Output
@@ -40,7 +40,7 @@
 
 ***Keterangan :***
 
-- Selanjutnya, sebelum ``mengklik tombol Count``, sebaiknya isi angka pada Enter Limit terlebih dahulu. Sebagai contoh, saya mengisi limit dengan angka 20.
+- Selanjutnya, sebelum mengklik tombol Count, ``sebaiknya isi angka pada Enter Limit`` terlebih dahulu. Sebagai contoh, saya mengisi limit dengan angka 20.
 
 ## Output 
 
